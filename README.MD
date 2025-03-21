@@ -1,0 +1,1 @@
+### Estes são alguns dos scripts criados por mim para configurações e instalações do Fedora Linux.
